@@ -1,0 +1,38 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Follower.cs">
+    <Files>
+      <File FileName="Assets\flotaMulti.cs" Line="1" Column="1" />
+      <File FileName="Assets\preLaser.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TileMouseOver.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TileMap.cs" Line="1" Column="1" />
+      <File FileName="Assets\Laserrr.cs" Line="1" Column="1" />
+      <File FileName="Assets\FleetController.cs" Line="1" Column="1" />
+      <File FileName="Assets\ShipController.cs" Line="1" Column="1" />
+      <File FileName="Assets\MapController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\mm.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Completed-Assets\Scripts\Done_RandomRotator.cs" Line="1" Column="1" />
+      <File FileName="Assets\prueba.cs" Line="1" Column="1" />
+      <File FileName="Assets\follow_enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Follower.cs" Line="41" Column="55" />
+      <File FileName="Assets\ssplosion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyByContact.cs" Line="1" Column="1" />
+      <File FileName="Assets\Camcontr.cs" Line="1" Column="1" />
+      <File FileName="Assets\laserin.cs" Line="1" Column="1" />
+      <File FileName="Assets\camara_follower.cs" Line="1" Column="1" />
+      <File FileName="Assets\datosNet.cs" Line="1" Column="1" />
+      <File FileName="Assets\lerprueba.cs" Line="1" Column="1" />
+      <File FileName="Assets\prueba2.cs" Line="1" Column="1" />
+      <File FileName="Assets\formacion.cs" Line="1" Column="1" />
+      <File FileName="Assets\vidaFlota.cs" Line="1" Column="1" />
+      <File FileName="Assets\obj_indic.cs" Line="1" Column="1" />
+      <File FileName="Assets\fleto.cs" Line="1" Column="1" />
+      <File FileName="Assets\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\follws.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/multi flota.unity
+  isLoaded: 1
+  isActive: 1
